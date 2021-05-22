@@ -8,18 +8,30 @@ To input the Match ID
   
 Example:-
   Match :- Real Madrid v/s Sevilla
+ 
   Match URL :- https://understat.com/match/15124
-  MAtch ID :- 15124
+
+  Match ID :- 15124
   
   You will accessing the following data:
     Player
+
     Player_assisted
+
     Result
+    
     Minute
+
     Team
+
     xG
+
     ShotType
+
     Situation
+
     LastAction
+
     x
+
     y
